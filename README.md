@@ -12,7 +12,8 @@
 
 ---
 
-<img width="1410" height="821" alt="Screenshot 2026-10-01 154349" src="https://github.com/user-attachments/assets/bbe31490-238b-4950-9fb2-75dcc8bde620" />
+<img width="1424" height="809" alt="image" src="https://github.com/user-attachments/assets/671d4543-fc64-43c7-a4a0-6d9057969818" />
+
 
 ## What it does
 
